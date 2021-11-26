@@ -1,0 +1,5 @@
+dependencies:
+  //Es necesario agregar esta dependencia
+  http: ^0.12.1
+  flutter:
+    sdk: flutter
